@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# my name is Emma (she/her)!
+# 🌱 I have a B.S. in Applied Math Specializing in Computing from UCLA
+# 😄 Currently I am pursuing my M.S. in Statistics at CSUF
+# 👯 I also work full-time as a Data Analyst at Rand Technology
+
 <!--
 **emmakbradley/emmakbradley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
